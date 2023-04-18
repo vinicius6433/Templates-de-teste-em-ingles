@@ -21,5 +21,3 @@ Para usar esses modelos, siga estas etapas:
 
 Se você tiver sugestões para melhorias nos modelos ou quiser adicionar novos modelos, sinta-se à vontade para enviar um pull request com suas alterações.
 
-## Repositório original em inglês
-https://github.com/driuzzo/test-templates
